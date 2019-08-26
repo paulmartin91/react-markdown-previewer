@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-markdown-previewer/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-markdown-previewer/static/js/main.ee365c1e.chunk.js",
+    "main.js.map": "/react-markdown-previewer/static/js/main.ee365c1e.chunk.js.map",
+    "runtime~main.js": "/react-markdown-previewer/static/js/runtime~main.16b1b1ca.js",
+    "runtime~main.js.map": "/react-markdown-previewer/static/js/runtime~main.16b1b1ca.js.map",
+    "static/js/2.8913184b.chunk.js": "/react-markdown-previewer/static/js/2.8913184b.chunk.js",
+    "static/js/2.8913184b.chunk.js.map": "/react-markdown-previewer/static/js/2.8913184b.chunk.js.map",
+    "index.html": "/react-markdown-previewer/index.html",
+    "precache-manifest.8e6335933b8b4eaafd8eab154ace2bf4.js": "/react-markdown-previewer/precache-manifest.8e6335933b8b4eaafd8eab154ace2bf4.js",
+    "service-worker.js": "/react-markdown-previewer/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-markdown-previewer/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-markdown-previewer/static/media/logo.5d5d9eef.svg"
+  }
+}
