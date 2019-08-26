@@ -1,0 +1,28 @@
+$boxW: 550px;
+$boxBorder: 5px;
+
+body{
+  background: #FFDAC1;
+  font-size: 0.7em;
+}
+
+.all {
+  display: flex;
+  justify-content: center;
+  font-family: 'Hepta Slab', serif;
+  
+  .previewBox {
+    width: $boxW;
+    padding: 10px;
+    margin-top: 10px;
+    background: white;
+    border-radius: $boxBorder;
+  }
+  
+  .editBox {
+    width: $boxW;
+    height: 600px;
+    margin: 10px;
+  }
+  
+}
